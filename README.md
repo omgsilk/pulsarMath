@@ -17,6 +17,6 @@
 ## 🛠 Установка
 
 ```bash
-git clone https://github.com/ВАШ-USERNAME/astronomy-calculators.git
+git clone https://github.com/omfsilk/astronomy-calculators.git
 cd astronomy-calculators
 python astronomy_calculator.py
